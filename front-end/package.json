@@ -1,7 +1,7 @@
 {
-  "name": "cmproject",
+  "name": "commath-project",
   "version": "0.1.0",
-  "homepage": "https://supakitwongkaew.github.io/CmProject",
+  "homepage": "https://churiphonthongsawat.github.io/Commath-Project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
